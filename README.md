@@ -2,15 +2,13 @@
 
 <h3 align="center">A Passionate Designer and Developer</h3><br>
 
-<img align="right" alt="Coding" width="500" height="300" src="https://st4.depositphotos.com/12985848/23032/i/600/depositphotos_230328356-stock-photo-rear-view-curly-woman-using.jpg">
-
-<h4>Pursuing Bachelor of Engineering in Computer Science and Engineering with a strong passion for creating and developing visually captivating designs. Eager to expand my knowledge and delve deeper into the field.</h4>
+<h4>Pursuing Bachelor of Engineering in Computer Science and Engineering with a strong passion for creating and developing visually captivating designs. Eager to expand my knowledge and delve deeper into the field.</h4><br>
 
 - 🌱 I’m currently learning **Front-end development**
 
 - 📫 How to reach me **sreejabhojan518@gmail.com**
 
-- ⚡ Fun fact **I like designing**
+- ⚡ Fun fact **I like designing**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
